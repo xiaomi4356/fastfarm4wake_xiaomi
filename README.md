@@ -9,3 +9,5 @@ vtk_ff: Contains the generated vtk files.
 pythoncode folder: Contains some attempts I made using openfast_toolbox, which I mentioned in the issue, but they all failed.
 
 I mainly ran the FAST.Farm_mode.fstf file to generate the vtk files and then visualized them. However, I found that the result was tilted.
+
+If you plan to run the code, you may need to make some adjustments to the file reference paths. Other than that, no further changes are required.
